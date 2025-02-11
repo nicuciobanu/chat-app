@@ -1,6 +1,7 @@
 *.class
 *.log
-*.DS_Store
+.DS_Store
+**/.DS_Store
 
 # sbt specific
 .cache
@@ -30,4 +31,3 @@ bin
 logs
 .bsp
 .idea
-.DS_Store
